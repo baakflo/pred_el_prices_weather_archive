@@ -121,8 +121,11 @@ Each dataset redistributes third-party open data under its source's terms:
 - **`site-state/cache/energy_charts/`** — source:
   [energy-charts.info](https://energy-charts.info) (Fraunhofer ISE), CC BY 4.0.
 - **Project-generated artifacts** (`site-state/site/`, `ens_features.parquet`)
-  — © the pred_el_prices project; reuse freely with attribution and a link
-  to the [live site](https://predict.baakes-systems-modeling.eu).
+  — © the pred_el_prices project,
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); attribute with
+  a link to the [live site](https://predict.baakes-systems-modeling.eu).
+
+The same terms, per directory, in [LICENSE.md](LICENSE.md).
 
 No commercial or non-redistributable data lives in this repo: fuel-price
 proxies (Yahoo) are rebuilt locally by anyone reproducing the results, and
