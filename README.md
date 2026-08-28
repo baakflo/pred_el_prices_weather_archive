@@ -128,5 +128,4 @@ Each dataset redistributes third-party open data under its source's terms:
 The same terms, per directory, in [LICENSE.md](LICENSE.md).
 
 No commercial or non-redistributable data lives in this repo: fuel-price
-proxies (Yahoo) are rebuilt locally by anyone reproducing the results, and
-the energyforecast.de benchmark snapshots are collected in a private repo.
+proxies (Yahoo) are rebuilt locally by anyone reproducing the results.
