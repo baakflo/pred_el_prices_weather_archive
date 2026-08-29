@@ -9,112 +9,112 @@
   {
    "t": "2026-08-30T00:00:00+00:00",
    "forecast": 104.83,
-   "actual": null
+   "actual": 86.03
   },
   {
    "t": "2026-08-30T01:00:00+00:00",
    "forecast": 100.43,
-   "actual": null
+   "actual": 77.94
   },
   {
    "t": "2026-08-30T02:00:00+00:00",
    "forecast": 98.89,
-   "actual": null
+   "actual": 69.38
   },
   {
    "t": "2026-08-30T03:00:00+00:00",
    "forecast": 100.1,
-   "actual": null
+   "actual": 72.96
   },
   {
    "t": "2026-08-30T04:00:00+00:00",
    "forecast": 102.04,
-   "actual": null
+   "actual": 70.89
   },
   {
    "t": "2026-08-30T05:00:00+00:00",
    "forecast": 98.24,
-   "actual": null
+   "actual": 59.05
   },
   {
    "t": "2026-08-30T06:00:00+00:00",
    "forecast": 73.8,
-   "actual": null
+   "actual": 15.98
   },
   {
    "t": "2026-08-30T07:00:00+00:00",
    "forecast": 42.07,
-   "actual": null
+   "actual": -0.01
   },
   {
    "t": "2026-08-30T08:00:00+00:00",
    "forecast": 19.38,
-   "actual": null
+   "actual": -0.1
   },
   {
    "t": "2026-08-30T09:00:00+00:00",
    "forecast": -7.52,
-   "actual": null
+   "actual": -0.15
   },
   {
    "t": "2026-08-30T10:00:00+00:00",
    "forecast": -17.76,
-   "actual": null
+   "actual": -1.02
   },
   {
    "t": "2026-08-30T11:00:00+00:00",
    "forecast": -13.19,
-   "actual": null
+   "actual": -1.05
   },
   {
    "t": "2026-08-30T12:00:00+00:00",
    "forecast": -10.69,
-   "actual": null
+   "actual": -1.05
   },
   {
    "t": "2026-08-30T13:00:00+00:00",
    "forecast": 8.32,
-   "actual": null
+   "actual": -0.12
   },
   {
    "t": "2026-08-30T14:00:00+00:00",
    "forecast": 38.44,
-   "actual": null
+   "actual": -0.01
   },
   {
    "t": "2026-08-30T15:00:00+00:00",
    "forecast": 89.76,
-   "actual": null
+   "actual": 62.45
   },
   {
    "t": "2026-08-30T16:00:00+00:00",
    "forecast": 134.59,
-   "actual": null
+   "actual": 163.39
   },
   {
    "t": "2026-08-30T17:00:00+00:00",
    "forecast": 155.93,
-   "actual": null
+   "actual": 184.16
   },
   {
    "t": "2026-08-30T18:00:00+00:00",
    "forecast": 166.03,
-   "actual": null
+   "actual": 193.19
   },
   {
    "t": "2026-08-30T19:00:00+00:00",
    "forecast": 174.12,
-   "actual": null
+   "actual": 192.92
   },
   {
    "t": "2026-08-30T20:00:00+00:00",
    "forecast": 174.95,
-   "actual": null
+   "actual": 181.44
   },
   {
    "t": "2026-08-30T21:00:00+00:00",
    "forecast": 155.39,
-   "actual": null
+   "actual": 168.79
   },
   {
    "t": "2026-08-30T22:00:00+00:00",
