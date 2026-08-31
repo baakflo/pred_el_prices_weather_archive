@@ -7484,8 +7484,7 @@
   },
   {
    "day": "2026-08-31",
-   "mae": 29.29,
-   "partial": 22,
+   "mae": 30.13,
    "post_gate": true,
    "load_surrogate": true,
    "hours": [
@@ -7602,12 +7601,12 @@
     {
      "t": "2026-08-31T22:00:00+00:00",
      "forecast": 115.46,
-     "actual": null
+     "actual": 154.59
     },
     {
      "t": "2026-08-31T23:00:00+00:00",
      "forecast": 107.03,
-     "actual": null
+     "actual": 146.61
     }
    ]
   }
