@@ -7486,8 +7486,7 @@
   },
   {
    "day": "2026-09-03",
-   "mae": 26.3,
-   "partial": 22,
+   "mae": 25.6,
    "evening": true,
    "load_surrogate": true,
    "hours": [
@@ -7604,12 +7603,12 @@
     {
      "t": "2026-09-03T22:00:00+00:00",
      "forecast": 115.65,
-     "actual": null
+     "actual": 135.74
     },
     {
      "t": "2026-09-03T23:00:00+00:00",
      "forecast": 109.1,
-     "actual": null
+     "actual": 124.83
     }
    ]
   }
