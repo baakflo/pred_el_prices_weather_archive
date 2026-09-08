@@ -1,130 +1,131 @@
 {
- "generated_utc": "2026-09-08T10:02:34+00:00",
- "delivery_day": "2026-09-09",
+ "generated_utc": "2026-09-08T21:51:40+00:00",
+ "delivery_day": "2026-09-10",
  "model": "LEAR(364, academic exog) + own-RES v2",
- "pre_gate": false,
- "weather_vintage": "00Z",
+ "pre_gate": true,
+ "weather_vintage": "12Z",
+ "evening": true,
  "load_surrogate": true,
- "note": "Generated AFTER the 12:00 CET/CEST auction gate closed \u2014 flagged for honesty; not comparable to pre-gate days. Renewables input is our own forecast from the ECMWF ENS 00Z run (the official TSO forecast is only published at 18:00, after the auction). Load input is a surrogate model (weather + calendar + last week's load) \u2014 the ENTSO-E load forecast was unavailable (measured cost: ~+0.3 EUR/MWh MAE).",
+ "note": "Generated before the 12:00 CET/CEST auction gate. Evening edition, built the night before from the ECMWF ENS 12Z run and a load surrogate (measured cost: ~+0.4 EUR/MWh MAE vs the regular morning forecast, which replaces this one when its inputs publish).",
  "hours": [
   {
-   "t": "2026-09-09T00:00:00+00:00",
-   "forecast": 157.74,
-   "actual": 143.34
-  },
-  {
-   "t": "2026-09-09T01:00:00+00:00",
-   "forecast": 151.92,
-   "actual": 139.48
-  },
-  {
-   "t": "2026-09-09T02:00:00+00:00",
-   "forecast": 145.27,
-   "actual": 137.86
-  },
-  {
-   "t": "2026-09-09T03:00:00+00:00",
-   "forecast": 154.7,
-   "actual": 142.37
-  },
-  {
-   "t": "2026-09-09T04:00:00+00:00",
-   "forecast": 172.97,
-   "actual": 174.0
-  },
-  {
-   "t": "2026-09-09T05:00:00+00:00",
-   "forecast": 175.46,
-   "actual": 199.76
-  },
-  {
-   "t": "2026-09-09T06:00:00+00:00",
-   "forecast": 173.46,
-   "actual": 197.98
-  },
-  {
-   "t": "2026-09-09T07:00:00+00:00",
-   "forecast": 144.58,
-   "actual": 160.51
-  },
-  {
-   "t": "2026-09-09T08:00:00+00:00",
-   "forecast": 112.8,
-   "actual": 123.39
-  },
-  {
-   "t": "2026-09-09T09:00:00+00:00",
-   "forecast": 82.96,
-   "actual": 101.07
-  },
-  {
-   "t": "2026-09-09T10:00:00+00:00",
-   "forecast": 62.44,
-   "actual": 88.04
-  },
-  {
-   "t": "2026-09-09T11:00:00+00:00",
-   "forecast": 55.76,
-   "actual": 67.08
-  },
-  {
-   "t": "2026-09-09T12:00:00+00:00",
-   "forecast": 58.83,
-   "actual": 61.57
-  },
-  {
-   "t": "2026-09-09T13:00:00+00:00",
-   "forecast": 66.84,
-   "actual": 72.94
-  },
-  {
-   "t": "2026-09-09T14:00:00+00:00",
-   "forecast": 99.22,
-   "actual": 95.6
-  },
-  {
-   "t": "2026-09-09T15:00:00+00:00",
-   "forecast": 131.73,
-   "actual": 132.06
-  },
-  {
-   "t": "2026-09-09T16:00:00+00:00",
-   "forecast": 163.04,
-   "actual": 173.69
-  },
-  {
-   "t": "2026-09-09T17:00:00+00:00",
-   "forecast": 179.4,
-   "actual": 202.03
-  },
-  {
-   "t": "2026-09-09T18:00:00+00:00",
-   "forecast": 193.69,
-   "actual": 202.36
-  },
-  {
-   "t": "2026-09-09T19:00:00+00:00",
-   "forecast": 177.33,
-   "actual": 196.51
-  },
-  {
-   "t": "2026-09-09T20:00:00+00:00",
-   "forecast": 156.64,
-   "actual": 174.99
-  },
-  {
-   "t": "2026-09-09T21:00:00+00:00",
-   "forecast": 144.26,
-   "actual": 153.25
-  },
-  {
-   "t": "2026-09-09T22:00:00+00:00",
-   "forecast": 137.32,
+   "t": "2026-09-10T00:00:00+00:00",
+   "forecast": 148.19,
    "actual": null
   },
   {
-   "t": "2026-09-09T23:00:00+00:00",
-   "forecast": 129.73,
+   "t": "2026-09-10T01:00:00+00:00",
+   "forecast": 150.5,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T02:00:00+00:00",
+   "forecast": 157.33,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T03:00:00+00:00",
+   "forecast": 181.01,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T04:00:00+00:00",
+   "forecast": 212.44,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T05:00:00+00:00",
+   "forecast": 248.47,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T06:00:00+00:00",
+   "forecast": 204.55,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T07:00:00+00:00",
+   "forecast": 170.36,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T08:00:00+00:00",
+   "forecast": 135.84,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T09:00:00+00:00",
+   "forecast": 104.44,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T10:00:00+00:00",
+   "forecast": 79.96,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T11:00:00+00:00",
+   "forecast": 68.24,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T12:00:00+00:00",
+   "forecast": 68.79,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T13:00:00+00:00",
+   "forecast": 95.07,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T14:00:00+00:00",
+   "forecast": 127.18,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T15:00:00+00:00",
+   "forecast": 217.04,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T16:00:00+00:00",
+   "forecast": 326.82,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T17:00:00+00:00",
+   "forecast": 341.44,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T18:00:00+00:00",
+   "forecast": 318.53,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T19:00:00+00:00",
+   "forecast": 269.11,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T20:00:00+00:00",
+   "forecast": 229.63,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T21:00:00+00:00",
+   "forecast": 201.74,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T22:00:00+00:00",
+   "forecast": 197.62,
+   "actual": null
+  },
+  {
+   "t": "2026-09-10T23:00:00+00:00",
+   "forecast": 189.48,
    "actual": null
   }
  ]
