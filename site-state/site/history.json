@@ -22099,9 +22099,9 @@
     "cov80": 0.88,
     "cov90": 1.0,
     "cov98": 1.0,
-    "mae_qh": 19.61,
-    "pinball_qh": 7.2,
-    "cov80_qh": 0.93,
+    "mae_qh": 20.14,
+    "pinball_qh": 7.31,
+    "cov80_qh": 0.91,
     "cov90_qh": 1.0,
     "cov98_qh": 1.0,
     "hours": [
