@@ -21964,8 +21964,7 @@
   },
   {
    "day": "2026-10-05",
-   "mae": 28.58,
-   "partial": 22,
+   "mae": 27.1,
    "evening": true,
    "load_surrogate": true,
    "hours": [
@@ -22082,25 +22081,25 @@
     {
      "t": "2026-10-05T22:00:00+00:00",
      "forecast": 166.25,
-     "actual": null
+     "actual": 151.76
     },
     {
      "t": "2026-10-05T23:00:00+00:00",
      "forecast": 156.95,
-     "actual": null
+     "actual": 149.88
     }
    ],
    "nets": {
-    "mae": 37.92,
-    "pinball": 14.29,
-    "cov80": 0.23,
-    "cov90": 0.59,
-    "cov98": 0.86,
-    "mae_qh": 37.92,
-    "pinball_qh": 14.43,
-    "cov80_qh": 0.23,
-    "cov90_qh": 0.55,
-    "cov98_qh": 0.83,
+    "mae": 37.25,
+    "pinball": 14.05,
+    "cov80": 0.21,
+    "cov90": 0.54,
+    "cov98": 0.88,
+    "mae_qh": 37.25,
+    "pinball_qh": 14.17,
+    "cov80_qh": 0.21,
+    "cov90_qh": 0.51,
+    "cov98_qh": 0.84,
     "evening": true,
     "load_surrogate": true,
     "neighbour_surrogate": true,
@@ -22356,7 +22355,7 @@
       "q90": 221.91,
       "q95": 239.93,
       "q99": 291.98,
-      "actual": null
+      "actual": 151.76
      },
      {
       "t": "2026-10-05T23:00:00+00:00",
@@ -22367,7 +22366,7 @@
       "q90": 216.6,
       "q95": 235.99,
       "q99": 291.67,
-      "actual": null
+      "actual": 149.88
      }
     ]
    }
