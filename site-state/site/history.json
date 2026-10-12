@@ -21430,9 +21430,9 @@
     "cov80": 1.0,
     "cov90": 1.0,
     "cov98": 1.0,
-    "mae_qh": 14.67,
-    "pinball_qh": 5.45,
-    "cov80_qh": 0.93,
+    "mae_qh": 15.62,
+    "pinball_qh": 5.66,
+    "cov80_qh": 0.94,
     "cov90_qh": 1.0,
     "cov98_qh": 1.0,
     "hours": [
@@ -21834,10 +21834,10 @@
     "cov80": 1.0,
     "cov90": 1.0,
     "cov98": 1.0,
-    "mae_qh": 18.05,
-    "pinball_qh": 6.51,
-    "cov80_qh": 0.88,
-    "cov90_qh": 0.88,
+    "mae_qh": 18.29,
+    "pinball_qh": 6.31,
+    "cov80_qh": 0.98,
+    "cov90_qh": 0.99,
     "cov98_qh": 1.0,
     "hours": [
      {
