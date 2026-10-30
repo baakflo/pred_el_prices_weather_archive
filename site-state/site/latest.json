@@ -1,131 +1,129 @@
 {
- "generated_utc": "2026-10-29T21:51:39+00:00",
+ "generated_utc": "2026-10-30T09:16:38+00:00",
  "delivery_day": "2026-10-31",
  "model": "LEAR(364, academic exog) + own-RES v2",
  "pre_gate": true,
- "weather_vintage": "12Z",
- "evening": true,
- "load_surrogate": true,
- "note": "Generated before the 12:00 CET/CEST auction gate. Evening edition, built the night before from the ECMWF ENS 12Z run and a load surrogate (measured cost: ~+0.4 EUR/MWh MAE vs the regular morning forecast, which replaces this one when its inputs publish).",
+ "weather_vintage": "00Z",
+ "note": "Generated before the 12:00 CET/CEST auction gate. Renewables input is our own forecast from the ECMWF ENS 00Z run (the official TSO forecast is only published at 18:00, after the auction).",
  "hours": [
   {
    "t": "2026-10-31T00:00:00+00:00",
-   "forecast": 215.11,
+   "forecast": 199.96,
    "actual": null
   },
   {
    "t": "2026-10-31T01:00:00+00:00",
-   "forecast": 207.44,
+   "forecast": 190.94,
    "actual": null
   },
   {
    "t": "2026-10-31T02:00:00+00:00",
-   "forecast": 203.6,
+   "forecast": 185.39,
    "actual": null
   },
   {
    "t": "2026-10-31T03:00:00+00:00",
-   "forecast": 191.04,
+   "forecast": 170.65,
    "actual": null
   },
   {
    "t": "2026-10-31T04:00:00+00:00",
-   "forecast": 178.4,
+   "forecast": 150.97,
    "actual": null
   },
   {
    "t": "2026-10-31T05:00:00+00:00",
-   "forecast": 178.48,
+   "forecast": 150.58,
    "actual": null
   },
   {
    "t": "2026-10-31T06:00:00+00:00",
-   "forecast": 181.53,
+   "forecast": 153.25,
    "actual": null
   },
   {
    "t": "2026-10-31T07:00:00+00:00",
-   "forecast": 173.94,
+   "forecast": 155.72,
    "actual": null
   },
   {
    "t": "2026-10-31T08:00:00+00:00",
-   "forecast": 175.62,
+   "forecast": 158.2,
    "actual": null
   },
   {
    "t": "2026-10-31T09:00:00+00:00",
-   "forecast": 167.04,
+   "forecast": 156.51,
    "actual": null
   },
   {
    "t": "2026-10-31T10:00:00+00:00",
-   "forecast": 156.25,
+   "forecast": 138.29,
    "actual": null
   },
   {
    "t": "2026-10-31T11:00:00+00:00",
-   "forecast": 142.63,
+   "forecast": 153.13,
    "actual": null
   },
   {
    "t": "2026-10-31T12:00:00+00:00",
-   "forecast": 156.08,
+   "forecast": 148.41,
    "actual": null
   },
   {
    "t": "2026-10-31T13:00:00+00:00",
-   "forecast": 155.8,
+   "forecast": 164.61,
    "actual": null
   },
   {
    "t": "2026-10-31T14:00:00+00:00",
-   "forecast": 170.43,
+   "forecast": 193.65,
    "actual": null
   },
   {
    "t": "2026-10-31T15:00:00+00:00",
-   "forecast": 205.11,
+   "forecast": 186.61,
    "actual": null
   },
   {
    "t": "2026-10-31T16:00:00+00:00",
-   "forecast": 217.0,
+   "forecast": 216.13,
    "actual": null
   },
   {
    "t": "2026-10-31T17:00:00+00:00",
-   "forecast": 211.57,
+   "forecast": 217.32,
    "actual": null
   },
   {
    "t": "2026-10-31T18:00:00+00:00",
-   "forecast": 206.53,
+   "forecast": 230.65,
    "actual": null
   },
   {
    "t": "2026-10-31T19:00:00+00:00",
-   "forecast": 189.25,
+   "forecast": 191.84,
    "actual": null
   },
   {
    "t": "2026-10-31T20:00:00+00:00",
-   "forecast": 184.05,
+   "forecast": 178.05,
    "actual": null
   },
   {
    "t": "2026-10-31T21:00:00+00:00",
-   "forecast": 178.84,
+   "forecast": 178.34,
    "actual": null
   },
   {
    "t": "2026-10-31T22:00:00+00:00",
-   "forecast": 172.38,
+   "forecast": 164.01,
    "actual": null
   },
   {
    "t": "2026-10-31T23:00:00+00:00",
-   "forecast": 173.47,
+   "forecast": 149.42,
    "actual": null
   }
  ],
